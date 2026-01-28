@@ -1,0 +1,9 @@
+.venv
+.vscode
+__pycache__/
+.DS_Store
+# Large directories to ignore
+attention/performer-pytorch/
+*.pdf
+*.jpg
+*.png
